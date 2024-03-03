@@ -1,0 +1,17 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "regex": "cpp",
+        "initializer_list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
